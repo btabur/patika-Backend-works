@@ -1,0 +1,2 @@
+pasaword şifreleri
+ dosyaya yeni veri ekleme
